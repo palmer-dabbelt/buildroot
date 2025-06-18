@@ -1,0 +1,5 @@
+config BR2_PACKAGE_PALMER_TESTS
+	bool "palmer_tests"
+	default y
+	help
+	  Palmer's tests
